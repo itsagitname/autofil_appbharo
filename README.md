@@ -1,6 +1,6 @@
 # Autofill Forms
-This project is a part of out course. Basic idea behind creating this project is to save user's time by giving them functionality 
-of autofilling forms.
+Basic idea behind creating this project is to save user's time by giving them functionality 
+of autofilling forms with their own personal or customized data.
 
 ## **This code is written in Python, HTML, CSS, JS and Flask.**
 
